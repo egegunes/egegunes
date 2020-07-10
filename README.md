@@ -2,9 +2,9 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [gitlabci 0.3.1](https://github.com/egegunes/gitlabci/releases/tag/0.3.1) - 2020-05-12T07:43:03Z
-* [redmine-cli 1.3.0](https://github.com/egegunes/redmine-cli/releases/tag/1.3.0) - 2020-01-08T07:11:39Z
-* [gitlabenv 0.2.0](https://github.com/egegunes/gitlabenv/releases/tag/0.2.0) - 2019-08-20T19:17:10Z
+* [gitlabci 0.3.1](https://github.com/egegunes/gitlabci/releases/tag/0.3.1) - 2020-05-12
+* [redmine-cli 1.3.0](https://github.com/egegunes/redmine-cli/releases/tag/1.3.0) - 2020-01-08
+* [gitlabenv 0.2.0](https://github.com/egegunes/gitlabenv/releases/tag/0.2.0) - 2019-08-20
 <!-- recent_releases ends -->
 </td><td valign="top">
 

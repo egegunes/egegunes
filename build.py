@@ -50,15 +50,13 @@ def recent_releases():
                     "repo": repo["name"],
                     "release": repo["releases"]["nodes"][0]["name"],
                     "url": repo["releases"]["nodes"][0]["url"],
-                    "published": repo["releases"]["nodes"][0]["publishedAt"],
+                    "published": repo["releases"]["nodes"][0]["publishedAt"].split("T")[
+                        0
+                    ],
                 }
             )
 
-    releases = sorted(
-        releases,
-        key=lambda r: datetime.strptime(r["published"], "%Y-%m-%dT%H:%M:%SZ"),
-        reverse=True,
-    )
+    releases = sorted(releases, key=lambda r: r["published"], reverse=True,)
 
     return releases[:5]
 
