@@ -6,7 +6,7 @@
 
 ### Recent posts
 
-* [Kubernetes Kaynak Yönetimi](https://ege.dev/post/kubernetes-kaynak-yonetimi/)
+* [Kubernetes Resource Management](https://ege.dev/post/kubernetes-resource-management/)
 * [Renew SSL Certs on Azure Application Gateway with Gitlab CI](https://ege.dev/post/renew-ssl-certs-in-azure-app-gateway-using-gitlabci/)
 * [Building a Linux Kernel Module](https://ege.dev/post/building-a-kernel-module/)
 * [PortQuiz.net](https://ege.dev/post/portquiz-net/)
