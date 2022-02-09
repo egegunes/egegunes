@@ -14,6 +14,7 @@
 
 ### Recent events
 
+* Pushed [updates](https://github.com/egegunes/egegunes/commit/7d40aaab66f8ccc2c6f29443a00389edde0222ec) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/3e4558330a60634a806f9aaf50ede22e951d6261) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/510438582590b251b2d92353a55ad60463a2a808) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/7f2d9fadb1542ee8e2231d777126062c907804b7) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
@@ -30,4 +31,3 @@
 * Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
 * Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
 * Pull request opened [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
-* Pushed [updates](https://github.com/egegunes/egegunes/commit/d9395a7fd5d6a5a82c07089a79d20762f4853368) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
