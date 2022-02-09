@@ -14,6 +14,7 @@
 
 ### Recent events
 
+* Pushed [updates](https://github.com/egegunes/egegunes/commit/26bb7a28e2bad62177edeb527bb2352c8f5afbaa) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/2c7ff3ce4dd514319b531e3b9736450c1518639e) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/71fadfd594e81573157d3b80fb4d47e9f181106b) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Reviewed [K8SPG-121 Not update if cluster on pause](https://github.com/percona/percona-postgresql-operator/pull/205)
@@ -28,4 +29,3 @@
 * Pull request closed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/pull/95)
 * Reviewed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/pull/95)
 * Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
