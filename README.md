@@ -14,6 +14,8 @@
 
 ### Recent events
 
+* Reviewed [K8SPG-121 Not update if cluster on pause](https://github.com/percona/percona-postgresql-operator/pull/205)
+* Pushed [updates](https://github.com/egegunes/egegunes/commit/d34491b83bc426ccae6d15c3b415bab4362f8809) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Commented [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
 * Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
 * Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
