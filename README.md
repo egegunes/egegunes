@@ -14,6 +14,7 @@
 
 ### Recent events
 
+* Pushed [updates](https://github.com/egegunes/egegunes/commit/86ed051dd0f624728436818003d8eedd966b257c) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/26bb7a28e2bad62177edeb527bb2352c8f5afbaa) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/2c7ff3ce4dd514319b531e3b9736450c1518639e) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/71fadfd594e81573157d3b80fb4d47e9f181106b) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
@@ -28,4 +29,3 @@
 * Pushed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/commit/fbea39d961090e7830e2a26bb9cc0b012addc0cf) to [Percona-Lab/percona-openshift](https://github.com/Percona-Lab/percona-openshift)
 * Pull request closed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/pull/95)
 * Reviewed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/pull/95)
-* Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
