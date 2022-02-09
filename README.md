@@ -14,6 +14,7 @@
 
 ### Recent events
 
+* Pushed [updates](https://github.com/egegunes/egegunes/commit/9d57b28505802d2cce1046ee37890484f93556b4) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/f005fe8718c9584c432052416bb7efc12d3ef30f) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/7042552241172ce3be88d2ffe9dd4d34b81fbe0d) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/86ed051dd0f624728436818003d8eedd966b257c) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
@@ -28,4 +29,3 @@
 * Pull request opened [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/d9395a7fd5d6a5a82c07089a79d20762f4853368) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [Add github events](https://github.com/egegunes/egegunes/commit/4b5ed0b34429f299e9e6aef3d46475ab52678cf0) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
-* Pushed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/commit/fbea39d961090e7830e2a26bb9cc0b012addc0cf) to [Percona-Lab/percona-openshift](https://github.com/Percona-Lab/percona-openshift)
