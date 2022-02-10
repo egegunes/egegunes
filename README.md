@@ -39,4 +39,3 @@
 * Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
 * Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
 * Commented [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
-* Pushed [Update versions after 2.0.0-alpha release](https://github.com/percona/percona-server-mysql-operator/commit/1c5cd8edcadeaa95687c1d468d98e25eabdc6bee) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
