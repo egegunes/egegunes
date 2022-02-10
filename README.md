@@ -51,4 +51,3 @@
 * Pushed [K8SPS-65: Fix updating replication password with semi-sync replicas](https://github.com/percona/percona-server-mysql-operator/commit/8f4eb074a5535adfc54727bc9167f01c56521310) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Commented [K8SPS-65: Fix updating replication password with semi-sync replicas](https://github.com/percona/percona-server-mysql-operator/pull/51)
 * Reviewed [K8SPS-65: Fix updating replication password with semi-sync replicas](https://github.com/percona/percona-server-mysql-operator/pull/51)
-* Commented [K8SPS-65: Fix updating replication password with semi-sync replicas](https://github.com/percona/percona-server-mysql-operator/pull/51)
