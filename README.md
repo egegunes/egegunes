@@ -36,4 +36,3 @@
 * Pushed [WIP](https://github.com/percona/percona-server-mysql-operator/commit/92fd075027de50451640e54e964014bd858ffc60) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Reviewed [K8SPG-172 Add bouncer user secrets handling on CR update](https://github.com/percona/percona-postgresql-operator/pull/202)
 * Reviewed [K8SPSMDB-635: Add labels to backup pod template](https://github.com/percona/percona-server-mongodb-operator/pull/869)
-* Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
