@@ -14,6 +14,8 @@
 
 ### Recent events
 
+* Pull request opened [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
+* Pull request opened [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
 * Reviewed [K8SPG-121 Not update if cluster on pause](https://github.com/percona/percona-postgresql-operator/pull/205)
 * Commented [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
 * Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
@@ -34,7 +36,4 @@
 * Pushed [WIP](https://github.com/percona/percona-server-mysql-operator/commit/92fd075027de50451640e54e964014bd858ffc60) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Reviewed [K8SPG-172 Add bouncer user secrets handling on CR update](https://github.com/percona/percona-postgresql-operator/pull/202)
 * Reviewed [K8SPSMDB-635: Add labels to backup pod template](https://github.com/percona/percona-server-mongodb-operator/pull/869)
-* Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
-* Commented [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
-* Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
 * Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
