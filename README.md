@@ -49,4 +49,3 @@
 * Pushed [revert this: fix orc image](https://github.com/percona/percona-server-mysql-operator/commit/056b0ed1b73f63be06f0f23569a37249c4230832) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pushed [K8SPS-57: Fix exposing primary service (#44)](https://github.com/percona/percona-server-mysql-operator/commit/09cce4c1638c93d7d25508b824e53e775d0238c6) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pushed [K8SPS-65: Fix updating replication password with semi-sync replicas](https://github.com/percona/percona-server-mysql-operator/commit/8f4eb074a5535adfc54727bc9167f01c56521310) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Commented [K8SPS-65: Fix updating replication password with semi-sync replicas](https://github.com/percona/percona-server-mysql-operator/pull/51)
