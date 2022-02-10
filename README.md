@@ -14,6 +14,7 @@
 
 ### Recent events
 
+* Pushed [updates](https://github.com/egegunes/egegunes/commit/99894c2466783e005212a3eabd742d5af90a66b5) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/4542094f35861d18dca78e25d7b779068edc0dda) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/64558f30836b534226a97eac9fa2731247d967d2) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/52b3d548611b999b175b14c500425bc9e8002bb8) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
@@ -31,4 +32,3 @@
 * Reviewed [K8SPG-121 Not update if cluster on pause](https://github.com/percona/percona-postgresql-operator/pull/205)
 * Pushed [updates](https://github.com/egegunes/egegunes/commit/d34491b83bc426ccae6d15c3b415bab4362f8809) to [egegunes/egegunes](https://github.com/egegunes/egegunes)
 * Commented [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
-* Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
