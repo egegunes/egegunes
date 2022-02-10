@@ -36,4 +36,3 @@
 * Pushed [WIP: K8SPS-53: Add backups](https://github.com/percona/percona-server-mysql-operator/commit/76274f6c5e7c0d29f7abad2c5e4a67a3cf9f9cc3) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pushed [WIP](https://github.com/percona/percona-server-mysql-operator/commit/92fd075027de50451640e54e964014bd858ffc60) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Reviewed [K8SPG-172 Add bouncer user secrets handling on CR update](https://github.com/percona/percona-postgresql-operator/pull/202)
-* Reviewed [K8SPSMDB-635: Add labels to backup pod template](https://github.com/percona/percona-server-mongodb-operator/pull/869)
