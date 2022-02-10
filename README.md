@@ -15,7 +15,6 @@
 ### Recent events
 
 * Pull request opened [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
-* Pull request opened [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
 * Reviewed [K8SPG-121 Not update if cluster on pause](https://github.com/percona/percona-postgresql-operator/pull/205)
 * Commented [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
 * Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
@@ -39,13 +38,3 @@
 * Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
 * Commented [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
 * Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
-* Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
-* Commented [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
-* Pushed [Update versions after 2.0.0-alpha release](https://github.com/percona/percona-server-mysql-operator/commit/1c5cd8edcadeaa95687c1d468d98e25eabdc6bee) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pushed [K8SPS-65: Fix updating replication password with semi-sync replicas (#51)](https://github.com/percona/percona-server-mysql-operator/commit/4ab2fb7ba915210b5f3704288c35fd80b87a443f) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pull request closed [K8SPS-65: Fix updating replication password with semi-sync replicas](https://github.com/percona/percona-server-mysql-operator/pull/51)
-* Pull request closed [Fix enabling/disabling semi-sync on MySQL 8.0.26](https://github.com/egegunes/orchestrator/pull/1)
-* Reviewed [K8SPSMDB-635: Add labels to backup pod template](https://github.com/percona/percona-server-mongodb-operator/pull/869)
-* Pushed [revert this: fix orc image](https://github.com/percona/percona-server-mysql-operator/commit/056b0ed1b73f63be06f0f23569a37249c4230832) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pushed [K8SPS-57: Fix exposing primary service (#44)](https://github.com/percona/percona-server-mysql-operator/commit/09cce4c1638c93d7d25508b824e53e775d0238c6) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pushed [K8SPS-65: Fix updating replication password with semi-sync replicas](https://github.com/percona/percona-server-mysql-operator/commit/8f4eb074a5535adfc54727bc9167f01c56521310) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
