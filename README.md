@@ -35,3 +35,27 @@
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
+
+
+### Recent events
+
+* Commented [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
+* Reviewed [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
+* Reviewed [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
+* Commented [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
+* Reviewed [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
+* Reviewed [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
+* Reviewed [update pmm client version](https://github.com/percona/percona-server-mongodb-operator/pull/884)
+* Reviewed [Update golang to 1.17](https://github.com/Percona-Lab/percona-version-service/pull/65)
+* Pull request opened [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
+* Reviewed [K8SPG-121 Not update if cluster on pause](https://github.com/percona/percona-postgresql-operator/pull/205)
+* Commented [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
+* Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
+* Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
+* Pull request opened [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
+* Pushed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/commit/fbea39d961090e7830e2a26bb9cc0b012addc0cf) to [Percona-Lab/percona-openshift](https://github.com/Percona-Lab/percona-openshift)
+* Pull request closed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/pull/95)
+* Reviewed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/pull/95)
+* Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
+* Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
+* Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
