@@ -14,6 +14,8 @@
 
 ### Recent events
 
+* Reviewed [update pmm client version](https://github.com/percona/percona-server-mongodb-operator/pull/884)
+* Reviewed [update pmm client version](https://github.com/percona/percona-server-mongodb-operator/pull/884)
 * Reviewed [Update golang to 1.17](https://github.com/Percona-Lab/percona-version-service/pull/65)
 * Pull request opened [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
 * Reviewed [K8SPG-121 Not update if cluster on pause](https://github.com/percona/percona-postgresql-operator/pull/205)
@@ -32,5 +34,3 @@
 * Pushed [K8SPS-53 add percona-server-client (#564)](https://github.com/percona/percona-docker/commit/c3d9cee1a1a61b2e674ed6f73e110a7b63dd9a90) to [percona/percona-docker](https://github.com/percona/percona-docker)
 * Pull request closed [K8SPS-53 add percona-server-client](https://github.com/percona/percona-docker/pull/564)
 * Pull request opened [WIP: K8SPS-53: Add backups](https://github.com/percona/percona-server-mysql-operator/pull/56)
-* Pushed [WIP: K8SPS-53: Add backups](https://github.com/percona/percona-server-mysql-operator/commit/76274f6c5e7c0d29f7abad2c5e4a67a3cf9f9cc3) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pushed [WIP](https://github.com/percona/percona-server-mysql-operator/commit/92fd075027de50451640e54e964014bd858ffc60) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
