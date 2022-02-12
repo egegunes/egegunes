@@ -15,7 +15,6 @@
 ### Recent events
 
 * Reviewed [K8SPSMDB-641 - Fix tls options naming for MongoDB 5.0](https://github.com/percona/percona-server-mongodb-operator/pull/879)
-* Reviewed [K8SPSMDB-641 - Fix tls options naming for MongoDB 5.0](https://github.com/percona/percona-server-mongodb-operator/pull/879)
 * Commented [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
 * Reviewed [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
 * Reviewed [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
