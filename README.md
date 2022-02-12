@@ -34,4 +34,3 @@
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Pushed [K8SPS-53 add percona-server-client (#564)](https://github.com/percona/percona-docker/commit/c3d9cee1a1a61b2e674ed6f73e110a7b63dd9a90) to [percona/percona-docker](https://github.com/percona/percona-docker)
