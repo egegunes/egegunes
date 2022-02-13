@@ -14,6 +14,8 @@
 
 ### Recent events
 
+* Pushed [authenticating-your-clients-to-mongodb-on-kubernetes-using-x509-certificates](https://github.com/egegunes/ege.dev/commit/46f9ad34763c8146b6cd2ba5297daf7a3ae9c3fd) to [egegunes/ege.dev](https://github.com/egegunes/ege.dev)
+* Pushed [authenticating-your-clients-to-mongodb-on-kubernetes-using-x509-certificates](https://github.com/egegunes/ege.dev/commit/46f9ad34763c8146b6cd2ba5297daf7a3ae9c3fd) to [egegunes/ege.dev](https://github.com/egegunes/ege.dev)
 * Reviewed [K8SPSMDB-641 - Fix tls options naming for MongoDB 5.0](https://github.com/percona/percona-server-mongodb-operator/pull/879)
 * Commented [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
 * Reviewed [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
