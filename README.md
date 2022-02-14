@@ -14,10 +14,11 @@
 
 ### Recent events
 
+* Pushed [CLOUD-654 avoid setting defaults in CR (#804)](https://github.com/percona/percona-server-mongodb-operator/commit/dd182eb1f5af06c4b9249ae8c1e8a2351642c01c) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Commented [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
 * Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
 * Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
-* Reviewed [Add tolerations and nodeselector](https://github.com/percona/percona-server-mysql-operator/pull/58)
+* Pushed [CLOUD-654 avoid setting defaults in CR (#804)](https://github.com/percona/percona-server-mongodb-operator/commit/dd182eb1f5af06c4b9249ae8c1e8a2351642c01c) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Commented [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
 * Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
 * Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
