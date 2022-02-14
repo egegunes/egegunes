@@ -14,10 +14,10 @@
 
 ### Recent events
 
+* Pushed [add tests links to PR](https://github.com/percona/percona-server-mysql-operator/commit/93538e6e4972a3a71bb05e708e5049d39d289cae) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
 * Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
-* Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
-* Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Pushed [add tests links to PR](https://github.com/percona/percona-server-mysql-operator/commit/93538e6e4972a3a71bb05e708e5049d39d289cae) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
 * Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
 * Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
@@ -34,3 +34,6 @@
 * Pull request opened [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
 * Reviewed [K8SPG-121 Not update if cluster on pause](https://github.com/percona/percona-postgresql-operator/pull/205)
 * Commented [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
+* Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
+* Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
+* Pull request opened [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
