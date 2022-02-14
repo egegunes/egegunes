@@ -6,15 +6,25 @@
 
 ### Recent posts
 
+* [Authenticating Your Clients to Mongodb on Kubernetes Using X509 Certificates](https://ege.dev/posts/authenticating-your-clients-to-mongodb-on-kubernetes-using-x509-certificates/)
 * [/beat/13.md](https://ege.dev/beat/13/)
 * [/beat/12.md](https://ege.dev/beat/12/)
 * [/beat/11.md](https://ege.dev/beat/11/)
 * [/beat/10.md](https://ege.dev/beat/10/)
-* [/beat/09.md](https://ege.dev/beat/09/)
 
 ### Recent events
 
-* Pushed [authenticating-your-clients-to-mongodb-on-kubernetes-using-x509-certificates](https://github.com/egegunes/ege.dev/commit/46f9ad34763c8146b6cd2ba5297daf7a3ae9c3fd) to [egegunes/ege.dev](https://github.com/egegunes/ege.dev)
+* Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Commented [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Pushed [updates](https://github.com/egegunes/ege.dev/commit/09691f897e7596256b756263efb37f4c01f3e6e7) to [egegunes/ege.dev](https://github.com/egegunes/ege.dev)
 * Pushed [authenticating-your-clients-to-mongodb-on-kubernetes-using-x509-certificates](https://github.com/egegunes/ege.dev/commit/46f9ad34763c8146b6cd2ba5297daf7a3ae9c3fd) to [egegunes/ege.dev](https://github.com/egegunes/ege.dev)
 * Reviewed [K8SPSMDB-641 - Fix tls options naming for MongoDB 5.0](https://github.com/percona/percona-server-mongodb-operator/pull/879)
 * Commented [temporary fix for monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/884)
@@ -26,13 +36,3 @@
 * Reviewed [K8SPG-121 Not update if cluster on pause](https://github.com/percona/percona-postgresql-operator/pull/205)
 * Commented [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
 * Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
-* Reviewed [K8SPG-112 Add tls auto handling](https://github.com/percona/percona-postgresql-operator/pull/199)
-* Pull request opened [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
-* Pushed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/commit/fbea39d961090e7830e2a26bb9cc0b012addc0cf) to [Percona-Lab/percona-openshift](https://github.com/Percona-Lab/percona-openshift)
-* Pull request closed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/pull/95)
-* Reviewed [Update PMM helm chart for version 2.26](https://github.com/Percona-Lab/percona-openshift/pull/95)
-* Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
