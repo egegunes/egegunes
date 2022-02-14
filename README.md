@@ -15,7 +15,6 @@
 ### Recent events
 
 * Pushed [CLOUD-654 avoid setting defaults in CR (#804)](https://github.com/percona/percona-server-mongodb-operator/commit/dd182eb1f5af06c4b9249ae8c1e8a2351642c01c) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
-* Commented [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
 * Pushed [CLOUD-654 avoid setting defaults in CR (#804)](https://github.com/percona/percona-server-mongodb-operator/commit/dd182eb1f5af06c4b9249ae8c1e8a2351642c01c) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Commented [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
 * Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
@@ -34,3 +33,4 @@
 * Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
 * Pushed [updates](https://github.com/egegunes/ege.dev/commit/09691f897e7596256b756263efb37f4c01f3e6e7) to [egegunes/ege.dev](https://github.com/egegunes/ege.dev)
 * Pushed [authenticating-your-clients-to-mongodb-on-kubernetes-using-x509-certificates](https://github.com/egegunes/ege.dev/commit/46f9ad34763c8146b6cd2ba5297daf7a3ae9c3fd) to [egegunes/ege.dev](https://github.com/egegunes/ege.dev)
+* Reviewed [K8SPSMDB-641 - Fix tls options naming for MongoDB 5.0](https://github.com/percona/percona-server-mongodb-operator/pull/879)
