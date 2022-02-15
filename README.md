@@ -34,4 +34,3 @@
 * Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
 * Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
 * Reviewed [Add tolerations and nodeselector](https://github.com/percona/percona-server-mysql-operator/pull/58)
-* Pushed [CLOUD-682 use dev-latest pmm-server (#59)](https://github.com/percona/percona-server-mysql-operator/commit/e3cddd8438befaaa81c20e7d4faee30443314081) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
