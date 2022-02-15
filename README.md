@@ -34,3 +34,5 @@
 * Pull request closed [CLOUD-682 use dev-latest pmm-server](https://github.com/percona/percona-server-mysql-operator/pull/59)
 * Reviewed [CLOUD-682 use dev-latest pmm-server](https://github.com/percona/percona-server-mysql-operator/pull/59)
 * Reviewed [CLOUD-682 use dev-latest pmm-server](https://github.com/percona/percona-xtradb-cluster-operator/pull/1105)
+* Reviewed [CLOUD-682 use pmm-server dev-latest](https://github.com/percona/percona-server-mongodb-operator/pull/885)
+* Pushed [add tests links to PR](https://github.com/percona/percona-server-mysql-operator/commit/93538e6e4972a3a71bb05e708e5049d39d289cae) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
