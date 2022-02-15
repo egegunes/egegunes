@@ -15,7 +15,6 @@
 ### Recent events
 
 * Pushed [CLOUD-660 public access to failed tests (#871)](https://github.com/srteam2020/percona-server-mongodb-operator/commit/1d3554b2519c78ed6198fcdc869eec593bb9324c) to [srteam2020/percona-server-mongodb-operator](https://github.com/srteam2020/percona-server-mongodb-operator)
-* Pushed [CLOUD-660 public access to failed tests (#871)](https://github.com/srteam2020/percona-server-mongodb-operator/commit/1d3554b2519c78ed6198fcdc869eec593bb9324c) to [srteam2020/percona-server-mongodb-operator](https://github.com/srteam2020/percona-server-mongodb-operator)
 * Pushed [K8SPS-53: Add nc and ps utils to xtrabackup 8.0](https://github.com/percona/percona-docker/commit/c8058728882068d478beba876cddfe2454811739) to [percona/percona-docker](https://github.com/percona/percona-docker)
 * Pull request opened [Add nc and ps utils to xtrabackup 8.0](https://github.com/percona/percona-docker/pull/569)
 * Pushed [Add nc and ps utils to xtrabackup 8.0](https://github.com/percona/percona-docker/commit/57ad1a8c99d706da5328a7c38a588e925e20a7d5) to [percona/percona-docker](https://github.com/percona/percona-docker)
@@ -35,4 +34,3 @@
 * Pull request closed [CLOUD-682 use dev-latest pmm-server](https://github.com/percona/percona-server-mysql-operator/pull/59)
 * Reviewed [CLOUD-682 use dev-latest pmm-server](https://github.com/percona/percona-server-mysql-operator/pull/59)
 * Reviewed [CLOUD-682 use dev-latest pmm-server](https://github.com/percona/percona-xtradb-cluster-operator/pull/1105)
-* Reviewed [CLOUD-682 use pmm-server dev-latest](https://github.com/percona/percona-server-mongodb-operator/pull/885)
