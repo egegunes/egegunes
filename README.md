@@ -14,6 +14,8 @@
 
 ### Recent events
 
+* Pushed [Apply suggestions from code review](https://github.com/percona/percona-server-mysql-operator/commit/2898e0d04b94f4a97d381b570fbbb0597abebace) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
+* Pushed [Apply suggestions from code review](https://github.com/percona/percona-server-mysql-operator/commit/2898e0d04b94f4a97d381b570fbbb0597abebace) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pushed [CLOUD-660 public access to failed tests (#871)](https://github.com/srteam2020/percona-server-mongodb-operator/commit/1d3554b2519c78ed6198fcdc869eec593bb9324c) to [srteam2020/percona-server-mongodb-operator](https://github.com/srteam2020/percona-server-mongodb-operator)
 * Pushed [K8SPS-53: Add nc and ps utils to xtrabackup 8.0](https://github.com/percona/percona-docker/commit/c8058728882068d478beba876cddfe2454811739) to [percona/percona-docker](https://github.com/percona/percona-docker)
 * Pull request opened [Add nc and ps utils to xtrabackup 8.0](https://github.com/percona/percona-docker/pull/569)
@@ -32,7 +34,3 @@
 * Reviewed [Add tolerations and nodeselector](https://github.com/percona/percona-server-mysql-operator/pull/58)
 * Pushed [CLOUD-682 use dev-latest pmm-server (#59)](https://github.com/percona/percona-server-mysql-operator/commit/e3cddd8438befaaa81c20e7d4faee30443314081) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pull request closed [CLOUD-682 use dev-latest pmm-server](https://github.com/percona/percona-server-mysql-operator/pull/59)
-* Reviewed [CLOUD-682 use dev-latest pmm-server](https://github.com/percona/percona-server-mysql-operator/pull/59)
-* Reviewed [CLOUD-682 use dev-latest pmm-server](https://github.com/percona/percona-xtradb-cluster-operator/pull/1105)
-* Reviewed [CLOUD-682 use pmm-server dev-latest](https://github.com/percona/percona-server-mongodb-operator/pull/885)
-* Pushed [add tests links to PR](https://github.com/percona/percona-server-mysql-operator/commit/93538e6e4972a3a71bb05e708e5049d39d289cae) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
