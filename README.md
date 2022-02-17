@@ -15,7 +15,6 @@
 ### Recent events
 
 * Pushed [K8SPS-70: Fix changing CR secret name with new passwords (#57)](https://github.com/percona/percona-server-mysql-operator/commit/03ba438ef0ad50f7929c0e1a0de0133a0acfb5e5) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pull request closed [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
 * Pushed [K8SPS-70: Fix changing CR secret name with new passwords (#57)](https://github.com/percona/percona-server-mysql-operator/commit/03ba438ef0ad50f7929c0e1a0de0133a0acfb5e5) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pull request closed [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
 * Pull request closed [Add tolerations and nodeselector](https://github.com/percona/percona-server-mysql-operator/pull/58)
@@ -34,3 +33,6 @@
 * Commented [WIP: K8SPS-53: Add backups](https://github.com/percona/percona-server-mysql-operator/pull/56)
 * Reviewed [WIP: K8SPS-53: Add backups](https://github.com/percona/percona-server-mysql-operator/pull/56)
 * Pushed [K8SPSMDB-635: Add labels to backup pod template (#869)](https://github.com/percona/percona-server-mongodb-operator/commit/2b4c505fe7d73fd7eb22f7972f0108f1015e7a79) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [fix cronjob API](https://github.com/percona/percona-server-mongodb-operator/commit/6d20dfe36af28fa9cda972bdd3400a83a3db0b81) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
+* Pushed [Revert "fix upgrade-consistency"](https://github.com/percona/percona-server-mongodb-operator/commit/d74b1b7be812407c22994653fd1d6c8a6442bbe2) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
