@@ -15,7 +15,6 @@
 ### Recent events
 
 * Pushed [K8SPS-70: Fix changing CR secret name with new passwords (#57)](https://github.com/percona/percona-server-mysql-operator/commit/03ba438ef0ad50f7929c0e1a0de0133a0acfb5e5) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pushed [K8SPS-70: Fix changing CR secret name with new passwords (#57)](https://github.com/percona/percona-server-mysql-operator/commit/03ba438ef0ad50f7929c0e1a0de0133a0acfb5e5) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pull request closed [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
 * Pull request closed [Add tolerations and nodeselector](https://github.com/percona/percona-server-mysql-operator/pull/58)
 * Pushed [Add tolerations and nodeselector (#58)](https://github.com/percona/percona-server-mysql-operator/commit/af0c786ae903d7569cedaa6fb99b47b1cbe627cb) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
