@@ -14,9 +14,15 @@
 
 ### Recent events
 
-* Pushed [K8SPS-53: Add on-demand and scheduled backups](https://github.com/percona/percona-server-mysql-operator/commit/b58b3b694575bb7e9a2bfc47929a64160d98c657) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pushed [K8SPSMDB-629: Update cert-manager and other dependencies](https://github.com/percona/percona-server-mongodb-operator/commit/a5ccd0df3e821af38181d10ef40760df11377471) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
-* Pushed [use pmm-server dev-latest](https://github.com/percona/percona-server-mongodb-operator/commit/45239ae168a3b9c325168145381316d4b60a5126) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [K8SPS-70: Fix changing CR secret name with new passwords (#57)](https://github.com/percona/percona-server-mysql-operator/commit/03ba438ef0ad50f7929c0e1a0de0133a0acfb5e5) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
+* Pull request closed [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
+* Pull request closed [Add tolerations and nodeselector](https://github.com/percona/percona-server-mysql-operator/pull/58)
+* Pushed [Add tolerations and nodeselector (#58)](https://github.com/percona/percona-server-mysql-operator/commit/af0c786ae903d7569cedaa6fb99b47b1cbe627cb) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
+* Pushed [K8SPS-70: Fix changing CR secret name with new passwords (#57)](https://github.com/percona/percona-server-mysql-operator/commit/03ba438ef0ad50f7929c0e1a0de0133a0acfb5e5) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
+* Pull request closed [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
+* Pull request closed [Add tolerations and nodeselector](https://github.com/percona/percona-server-mysql-operator/pull/58)
+* Pushed [Add tolerations and nodeselector (#58)](https://github.com/percona/percona-server-mysql-operator/commit/af0c786ae903d7569cedaa6fb99b47b1cbe627cb) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
+* Reviewed [K8SPG-183 Update setting defaults](https://github.com/percona/percona-postgresql-operator/pull/209)
 * Pushed [K8SPS-53: Add on-demand and scheduled backups](https://github.com/percona/percona-server-mysql-operator/commit/b58b3b694575bb7e9a2bfc47929a64160d98c657) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pushed [K8SPSMDB-629: Update cert-manager and other dependencies](https://github.com/percona/percona-server-mongodb-operator/commit/a5ccd0df3e821af38181d10ef40760df11377471) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [use pmm-server dev-latest](https://github.com/percona/percona-server-mongodb-operator/commit/45239ae168a3b9c325168145381316d4b60a5126) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
@@ -32,5 +38,3 @@
 * Pushed [K8SPSMDB-635: Add labels to backup pod template (#869)](https://github.com/percona/percona-server-mongodb-operator/commit/2b4c505fe7d73fd7eb22f7972f0108f1015e7a79) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [fix cronjob API](https://github.com/percona/percona-server-mongodb-operator/commit/6d20dfe36af28fa9cda972bdd3400a83a3db0b81) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
-* Pushed [Revert "fix upgrade-consistency"](https://github.com/percona/percona-server-mongodb-operator/commit/d74b1b7be812407c22994653fd1d6c8a6442bbe2) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
-* Pushed [CLOUD-654 avoid setting defaults in CR (#804)](https://github.com/percona/percona-server-mongodb-operator/commit/dd182eb1f5af06c4b9249ae8c1e8a2351642c01c) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
