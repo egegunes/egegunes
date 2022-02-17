@@ -14,8 +14,12 @@
 
 ### Recent events
 
-* Reviewed [K8SPG-150 HorizontalPodAutoscaler added](https://github.com/percona/percona-postgresql-operator/pull/206)
-* Pushed [Apply suggestions from code review](https://github.com/percona/percona-server-mysql-operator/commit/2898e0d04b94f4a97d381b570fbbb0597abebace) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
+* Pushed [K8SPS-53: Add on-demand and scheduled backups](https://github.com/percona/percona-server-mysql-operator/commit/b58b3b694575bb7e9a2bfc47929a64160d98c657) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
+* Pushed [K8SPSMDB-629: Update cert-manager and other dependencies](https://github.com/percona/percona-server-mongodb-operator/commit/a5ccd0df3e821af38181d10ef40760df11377471) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [use pmm-server dev-latest](https://github.com/percona/percona-server-mongodb-operator/commit/45239ae168a3b9c325168145381316d4b60a5126) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [K8SPS-53: Add on-demand and scheduled backups](https://github.com/percona/percona-server-mysql-operator/commit/b58b3b694575bb7e9a2bfc47929a64160d98c657) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
+* Pushed [K8SPSMDB-629: Update cert-manager and other dependencies](https://github.com/percona/percona-server-mongodb-operator/commit/a5ccd0df3e821af38181d10ef40760df11377471) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [use pmm-server dev-latest](https://github.com/percona/percona-server-mongodb-operator/commit/45239ae168a3b9c325168145381316d4b60a5126) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [K8SPG-150 HorizontalPodAutoscaler added](https://github.com/percona/percona-postgresql-operator/pull/206)
 * Pushed [Apply suggestions from code review](https://github.com/percona/percona-server-mysql-operator/commit/2898e0d04b94f4a97d381b570fbbb0597abebace) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pushed [CLOUD-660 public access to failed tests (#871)](https://github.com/srteam2020/percona-server-mongodb-operator/commit/1d3554b2519c78ed6198fcdc869eec593bb9324c) to [srteam2020/percona-server-mongodb-operator](https://github.com/srteam2020/percona-server-mongodb-operator)
@@ -31,6 +35,3 @@
 * Pushed [Revert "fix upgrade-consistency"](https://github.com/percona/percona-server-mongodb-operator/commit/d74b1b7be812407c22994653fd1d6c8a6442bbe2) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [CLOUD-654 avoid setting defaults in CR (#804)](https://github.com/percona/percona-server-mongodb-operator/commit/dd182eb1f5af06c4b9249ae8c1e8a2351642c01c) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Commented [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
-* Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
-* Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
-* Reviewed [Add tolerations and nodeselector](https://github.com/percona/percona-server-mysql-operator/pull/58)
