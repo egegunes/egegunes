@@ -34,3 +34,4 @@
 * Pushed [K8SPSMDB-635: Add labels to backup pod template (#869)](https://github.com/percona/percona-server-mongodb-operator/commit/2b4c505fe7d73fd7eb22f7972f0108f1015e7a79) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [fix cronjob API](https://github.com/percona/percona-server-mongodb-operator/commit/6d20dfe36af28fa9cda972bdd3400a83a3db0b81) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [Also enable super_read_only when replica](https://github.com/percona/percona-xtradb-cluster-operator/pull/1094)
+* Pushed [Revert "fix upgrade-consistency"](https://github.com/percona/percona-server-mongodb-operator/commit/d74b1b7be812407c22994653fd1d6c8a6442bbe2) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
