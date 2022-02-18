@@ -15,7 +15,6 @@
 ### Recent events
 
 * Pushed [Update api/v1alpha1/perconaservermysql_types.go](https://github.com/percona/percona-server-mysql-operator/commit/66c01a03aa8dc81d664e4aed10761d66684244c3) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pull request opened [K8SPS-53: Add scheduled-backup test](https://github.com/percona/percona-server-mysql-operator/pull/63)
 * Pushed [Update api/v1alpha1/perconaservermysql_types.go](https://github.com/percona/percona-server-mysql-operator/commit/66c01a03aa8dc81d664e4aed10761d66684244c3) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pull request opened [K8SPS-53: Add scheduled-backup test](https://github.com/percona/percona-server-mysql-operator/pull/63)
 * Pull request opened [K8SPS-53: Add demand-backup test](https://github.com/percona/percona-server-mysql-operator/pull/62)
