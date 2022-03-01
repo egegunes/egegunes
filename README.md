@@ -16,7 +16,6 @@
 
 * Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
 * Commented [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
-* Reviewed [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
 * Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
 * Commented [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
 * Reviewed [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
