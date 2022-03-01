@@ -14,7 +14,10 @@
 
 ### Recent events
 
-* Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
+* Commented [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
+* Reviewed [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
+* Commented [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
+* Reviewed [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
 * Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
 * Commented [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
 * Reviewed [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
@@ -31,6 +34,3 @@
 * Pull request opened [K8SPS-53: Add demand-backup test](https://github.com/percona/percona-server-mysql-operator/pull/62)
 * Pushed [K8SPS-53: Add demand-backup test](https://github.com/percona/percona-server-mysql-operator/commit/953f1370513cb5536c7f177a11d1d404b85f2ac9) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pull request opened [K8SPS-53: Add scheduled-backups](https://github.com/percona/percona-server-mysql-operator/pull/61)
-* Pull request opened [K8SPS-53: Add on-demand backups](https://github.com/percona/percona-server-mysql-operator/pull/60)
-* Pushed [CLOUD-682 use dev-latest pmm-server (#59)](https://github.com/percona/percona-server-mysql-operator/commit/e3cddd8438befaaa81c20e7d4faee30443314081) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pull request closed [K8SPS-53: Add on-demand and scheduled backups](https://github.com/percona/percona-server-mysql-operator/pull/56)
