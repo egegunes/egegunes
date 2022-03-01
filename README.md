@@ -14,7 +14,9 @@
 
 ### Recent events
 
+* Pushed [K8SPSMDB-562 - Update tests for PSMDB 5.0 (#892)](https://github.com/percona/percona-server-mongodb-operator/commit/c238179b3df4cce0594d1d027c4b77548433d315) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [K8SPSMDB-562 - Update tests for PSMDB 5.0](https://github.com/percona/percona-server-mongodb-operator/pull/892)
+* Pushed [K8SPSMDB-562 - Update tests for PSMDB 5.0 (#892)](https://github.com/percona/percona-server-mongodb-operator/commit/c238179b3df4cce0594d1d027c4b77548433d315) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [K8SPSMDB-562 - Update tests for PSMDB 5.0](https://github.com/percona/percona-server-mongodb-operator/pull/892)
 * Pull request opened [K8SPS-53: Store backups in cloud storages](https://github.com/percona/percona-server-mysql-operator/pull/64)
 * Pushed [Update api/v1alpha1/perconaservermysql_types.go](https://github.com/percona/percona-server-mysql-operator/commit/66c01a03aa8dc81d664e4aed10761d66684244c3) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
@@ -32,7 +34,3 @@
 * Pull request closed [K8SPS-70: Fix changing CR secret name with new passwords](https://github.com/percona/percona-server-mysql-operator/pull/57)
 * Pull request closed [Add tolerations and nodeselector](https://github.com/percona/percona-server-mysql-operator/pull/58)
 * Pushed [Add tolerations and nodeselector (#58)](https://github.com/percona/percona-server-mysql-operator/commit/af0c786ae903d7569cedaa6fb99b47b1cbe627cb) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Reviewed [K8SPG-183 Update setting defaults](https://github.com/percona/percona-postgresql-operator/pull/209)
-* Pushed [K8SPS-53: Add on-demand and scheduled backups](https://github.com/percona/percona-server-mysql-operator/commit/b58b3b694575bb7e9a2bfc47929a64160d98c657) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pushed [K8SPSMDB-629: Update cert-manager and other dependencies](https://github.com/percona/percona-server-mongodb-operator/commit/a5ccd0df3e821af38181d10ef40760df11377471) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
-* Pushed [use pmm-server dev-latest](https://github.com/percona/percona-server-mongodb-operator/commit/45239ae168a3b9c325168145381316d4b60a5126) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
