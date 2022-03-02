@@ -14,6 +14,8 @@
 
 ### Recent events
 
+* Reviewed [CLOUD-685 fix monitoring test](https://github.com/percona/percona-xtradb-cluster-operator/pull/1110)
+* Reviewed [CLOUD-685 fix monitoring test](https://github.com/percona/percona-xtradb-cluster-operator/pull/1110)
 * Commented [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
 * Reviewed [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
 * Commented [CLOUD-684 move notifications to private channels](https://github.com/percona/percona-server-mongodb-operator/pull/896)
@@ -34,4 +36,3 @@
 * Pushed [Update api/v1alpha1/perconaservermysql_types.go](https://github.com/percona/percona-server-mysql-operator/commit/66c01a03aa8dc81d664e4aed10761d66684244c3) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
 * Pull request opened [K8SPS-53: Add scheduled-backup test](https://github.com/percona/percona-server-mysql-operator/pull/63)
 * Pull request opened [K8SPS-53: Add demand-backup test](https://github.com/percona/percona-server-mysql-operator/pull/62)
-* Pushed [K8SPS-53: Add demand-backup test](https://github.com/percona/percona-server-mysql-operator/commit/953f1370513cb5536c7f177a11d1d404b85f2ac9) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
