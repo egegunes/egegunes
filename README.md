@@ -15,7 +15,6 @@
 ### Recent events
 
 * Reviewed [CLOUD-685 fix monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/897)
-* Reviewed [CLOUD-684 rewrite slack  notifications](https://github.com/percona/percona-server-mysql-operator/pull/65)
 * Reviewed [CLOUD-685 fix monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/897)
 * Reviewed [CLOUD-684 rewrite slack  notifications](https://github.com/percona/percona-server-mysql-operator/pull/65)
 * Commented [Loading operator pod may fail](https://github.com/percona/percona-server-mongodb-operator/pull/889)
