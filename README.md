@@ -15,7 +15,6 @@
 ### Recent events
 
 * Reviewed [CLOUD-685 fix monitoring test](https://github.com/percona/percona-server-mysql-operator/pull/66)
-* Reviewed [CLOUD-685 fix monitoring test](https://github.com/percona/percona-xtradb-cluster-operator/pull/1110)
 * Reviewed [CLOUD-685 fix monitoring test](https://github.com/percona/percona-server-mysql-operator/pull/66)
 * Reviewed [CLOUD-685 fix monitoring test](https://github.com/percona/percona-xtradb-cluster-operator/pull/1110)
 * Commented [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
@@ -34,3 +33,4 @@
 * Reviewed [K8SPXC-687 fix: restore reconcile loop getting stuck when restore pod container fails](https://github.com/percona/percona-xtradb-cluster-operator/pull/1099)
 * Pushed [K8SPSMDB-562 - Update tests for PSMDB 5.0 (#892)](https://github.com/percona/percona-server-mongodb-operator/commit/c238179b3df4cce0594d1d027c4b77548433d315) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [K8SPSMDB-562 - Update tests for PSMDB 5.0](https://github.com/percona/percona-server-mongodb-operator/pull/892)
+* Pull request opened [K8SPS-53: Store backups in cloud storages](https://github.com/percona/percona-server-mysql-operator/pull/64)
