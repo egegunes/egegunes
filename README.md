@@ -34,3 +34,5 @@
 * Reviewed [K8SPXC-862 fix: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-xtradb-cluster-operator/pull/1098)
 * Commented [K8SPXC-687 fix: restore reconcile loop getting stuck when restore pod container fails](https://github.com/percona/percona-xtradb-cluster-operator/pull/1099)
 * Reviewed [K8SPXC-687 fix: restore reconcile loop getting stuck when restore pod container fails](https://github.com/percona/percona-xtradb-cluster-operator/pull/1099)
+* Reviewed [K8SPXC-687 fix: restore reconcile loop getting stuck when restore pod container fails](https://github.com/percona/percona-xtradb-cluster-operator/pull/1099)
+* Pushed [K8SPSMDB-562 - Update tests for PSMDB 5.0 (#892)](https://github.com/percona/percona-server-mongodb-operator/commit/c238179b3df4cce0594d1d027c4b77548433d315) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
