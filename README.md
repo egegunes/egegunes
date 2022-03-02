@@ -35,4 +35,3 @@
 * Pull request opened [K8SPS-53: Add scheduled-backup test](https://github.com/percona/percona-server-mysql-operator/pull/63)
 * Pull request opened [K8SPS-53: Add demand-backup test](https://github.com/percona/percona-server-mysql-operator/pull/62)
 * Pushed [K8SPS-53: Add demand-backup test](https://github.com/percona/percona-server-mysql-operator/commit/953f1370513cb5536c7f177a11d1d404b85f2ac9) to [percona/percona-server-mysql-operator](https://github.com/percona/percona-server-mysql-operator)
-* Pull request opened [K8SPS-53: Add scheduled-backups](https://github.com/percona/percona-server-mysql-operator/pull/61)
