@@ -36,4 +36,3 @@
 * Reviewed [K8SPXC-862 fix: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-xtradb-cluster-operator/pull/1098)
 * Commented [K8SPXC-687 fix: restore reconcile loop getting stuck when restore pod container fails](https://github.com/percona/percona-xtradb-cluster-operator/pull/1099)
 * Reviewed [K8SPXC-687 fix: restore reconcile loop getting stuck when restore pod container fails](https://github.com/percona/percona-xtradb-cluster-operator/pull/1099)
-* Reviewed [K8SPXC-687 fix: restore reconcile loop getting stuck when restore pod container fails](https://github.com/percona/percona-xtradb-cluster-operator/pull/1099)
