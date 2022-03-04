@@ -14,6 +14,8 @@
 
 ### Recent events
 
+* Pull request opened [K8SPG-116: WIP](https://github.com/percona/percona-postgresql-operator/pull/214)
+* Pull request opened [K8SPG-116: WIP](https://github.com/percona/percona-postgresql-operator/pull/214)
 * Reviewed [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
 * Reviewed [Loading operator pod may fail](https://github.com/percona/percona-server-mongodb-operator/pull/889)
 * Reviewed [CLOUD-685 fix monitoring test](https://github.com/percona/percona-server-mongodb-operator/pull/897)
@@ -34,3 +36,5 @@
 * Reviewed [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
 * Pushed [K8SPSMDB-578-579: check both SSL secret and SSL internal secret in reconsileSSL (#797)](https://github.com/percona/percona-server-mongodb-operator/commit/34578292c1aa99055ce8de0e68635d4e5b1940e9) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [K8SPXC-862 fix: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-xtradb-cluster-operator/pull/1098)
+* Commented [K8SPXC-687 fix: restore reconcile loop getting stuck when restore pod container fails](https://github.com/percona/percona-xtradb-cluster-operator/pull/1099)
+* Reviewed [K8SPXC-687 fix: restore reconcile loop getting stuck when restore pod container fails](https://github.com/percona/percona-xtradb-cluster-operator/pull/1099)
