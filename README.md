@@ -34,4 +34,3 @@
 * Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
 * Commented [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
 * Reviewed [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
-* Pushed [K8SPSMDB-578-579: check both SSL secret and SSL internal secret in reconsileSSL (#797)](https://github.com/percona/percona-server-mongodb-operator/commit/34578292c1aa99055ce8de0e68635d4e5b1940e9) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
