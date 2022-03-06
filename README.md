@@ -14,6 +14,8 @@
 
 ### Recent events
 
+* Pushed [WIP](https://github.com/percona/percona-postgresql-operator/commit/43c859e3602aa1b308f0e2ea9b446ea6357900f7) to [percona/percona-postgresql-operator](https://github.com/percona/percona-postgresql-operator)
+* Pushed [WIP](https://github.com/percona/percona-postgresql-operator/commit/43c859e3602aa1b308f0e2ea9b446ea6357900f7) to [percona/percona-postgresql-operator](https://github.com/percona/percona-postgresql-operator)
 * Pull request opened [K8SPG-116: WIP](https://github.com/percona/percona-postgresql-operator/pull/214)
 * Reviewed [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
 * Reviewed [Loading operator pod may fail](https://github.com/percona/percona-server-mongodb-operator/pull/889)
@@ -32,5 +34,3 @@
 * Reviewed [Cloud-684 slack notifications](https://github.com/percona/percona-xtradb-cluster-operator/pull/1109)
 * Reviewed [K8SPSMDB-563 fix: add finalizer to delete pods in order](https://github.com/percona/percona-server-mongodb-operator/pull/872)
 * Commented [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
-* Reviewed [K8SPSMDB-640: Fix updating custom labels](https://github.com/percona/percona-server-mongodb-operator/pull/881)
-* Pushed [K8SPSMDB-578-579: check both SSL secret and SSL internal secret in reconsileSSL (#797)](https://github.com/percona/percona-server-mongodb-operator/commit/34578292c1aa99055ce8de0e68635d4e5b1940e9) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
