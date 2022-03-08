@@ -17,7 +17,6 @@
 * Pull request opened [K8SPSMDB-574: Allow configuring duration for cert-manager certs](https://github.com/percona/percona-server-mongodb-operator/pull/900)
 * Pushed [K8SPSMDB-641 - Fix tls options naming for MongoDB 5.0 (#879)](https://github.com/srteam2020/percona-server-mongodb-operator/commit/b546bdb792cb9f916293c1ba0942073ae8883df3) to [srteam2020/percona-server-mongodb-operator](https://github.com/srteam2020/percona-server-mongodb-operator)
 * Reviewed [K8SPSMDB-649: Loading operator pod may fail](https://github.com/percona/percona-server-mongodb-operator/pull/889)
-* Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
 * Pull request opened [K8SPSMDB-574: Allow configuring duration for cert-manager certs](https://github.com/percona/percona-server-mongodb-operator/pull/900)
 * Pushed [K8SPSMDB-641 - Fix tls options naming for MongoDB 5.0 (#879)](https://github.com/srteam2020/percona-server-mongodb-operator/commit/b546bdb792cb9f916293c1ba0942073ae8883df3) to [srteam2020/percona-server-mongodb-operator](https://github.com/srteam2020/percona-server-mongodb-operator)
 * Reviewed [K8SPSMDB-649: Loading operator pod may fail](https://github.com/percona/percona-server-mongodb-operator/pull/889)
