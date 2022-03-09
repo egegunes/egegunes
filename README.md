@@ -15,7 +15,6 @@
 ### Recent events
 
 * Pull request closed [K8SPSMDB-515: Allow setting TLS mode for mongod](https://github.com/percona/percona-server-mongodb-operator/pull/730)
-* Pull request closed [K8SPSMDB-652: Fix data-sharded test](https://github.com/percona/percona-server-mongodb-operator/pull/901)
 * Pull request closed [K8SPSMDB-515: Allow setting TLS mode for mongod](https://github.com/percona/percona-server-mongodb-operator/pull/730)
 * Pull request closed [K8SPSMDB-652: Fix data-sharded test](https://github.com/percona/percona-server-mongodb-operator/pull/901)
 * Pushed [CLOUD-685 fix monitoring test (#897)](https://github.com/percona/percona-server-mongodb-operator/commit/33f996a10790be635b6d360c0ef43128bada73e0) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
@@ -35,3 +34,4 @@
 * Reviewed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck](https://github.com/percona/percona-server-mongodb-operator/pull/829)
 * Pushed [CLOUD-660 public access to failed tests (#871)](https://github.com/percona/percona-server-mongodb-operator/commit/1d3554b2519c78ed6198fcdc869eec593bb9324c) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [Fix scheduled-backup test](https://github.com/percona/percona-postgresql-operator/commit/3bf1fdcb3523c80046cc6244ef1655089afde225) to [percona/percona-postgresql-operator](https://github.com/percona/percona-postgresql-operator)
+* Pushed [WIP](https://github.com/percona/percona-postgresql-operator/commit/43c859e3602aa1b308f0e2ea9b446ea6357900f7) to [percona/percona-postgresql-operator](https://github.com/percona/percona-postgresql-operator)
