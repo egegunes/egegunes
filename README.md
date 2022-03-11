@@ -14,10 +14,12 @@
 
 ### Recent events
 
+* Reviewed [K8SPSMDB-624 fix: invalid permissions for MONGODB_CLUSTER_MONITOR_USER](https://github.com/percona/percona-server-mongodb-operator/pull/899)
+* Reviewed [K8SPSMDB-596: remove every field in `mongod` section except `securityencryptionKeySecret`](https://github.com/percona/percona-server-mongodb-operator/pull/882)
 * Commented [K8SPSMDB-599 fix: Add service per pod for mongos](https://github.com/percona/percona-server-mongodb-operator/pull/862)
 * Reviewed [K8SPSMDB-599 fix: Add service per pod for mongos](https://github.com/percona/percona-server-mongodb-operator/pull/862)
-* Reviewed [K8SPSMDB-599 fix: Add service per pod for mongos](https://github.com/percona/percona-server-mongodb-operator/pull/862)
-* Reviewed [K8SPSMDB-585: support deleting orphan PVCs for mongod](https://github.com/percona/percona-server-mongodb-operator/pull/818)
+* Reviewed [K8SPSMDB-624 fix: invalid permissions for MONGODB_CLUSTER_MONITOR_USER](https://github.com/percona/percona-server-mongodb-operator/pull/899)
+* Reviewed [K8SPSMDB-596: remove every field in `mongod` section except `securityencryptionKeySecret`](https://github.com/percona/percona-server-mongodb-operator/pull/882)
 * Commented [K8SPSMDB-599 fix: Add service per pod for mongos](https://github.com/percona/percona-server-mongodb-operator/pull/862)
 * Reviewed [K8SPSMDB-599 fix: Add service per pod for mongos](https://github.com/percona/percona-server-mongodb-operator/pull/862)
 * Reviewed [K8SPSMDB-599 fix: Add service per pod for mongos](https://github.com/percona/percona-server-mongodb-operator/pull/862)
@@ -34,4 +36,3 @@
 * Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Pushed [CLOUD-685 fix monitoring test (#897)](https://github.com/percona/percona-server-mongodb-operator/commit/33f996a10790be635b6d360c0ef43128bada73e0) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
