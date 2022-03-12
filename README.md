@@ -18,7 +18,6 @@
 * Commented [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
 * Commented [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
 * Reviewed [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
-* Reviewed [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
 * Commented [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
 * Commented [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
 * Reviewed [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
@@ -35,4 +34,3 @@
 * Reviewed [[K8SPSMDB-634] Support PBM's PITR compression functionality](https://github.com/percona/percona-server-mongodb-operator/pull/867)
 * Commented [K8SPSMDB-574: Allow configuring duration for cert-manager certs](https://github.com/percona/percona-server-mongodb-operator/pull/900)
 * Reviewed [K8SPSMDB-574: Allow configuring duration for cert-manager certs](https://github.com/percona/percona-server-mongodb-operator/pull/900)
-* Reviewed [CLOUD-686 - Add scaling test](https://github.com/percona/percona-server-mysql-operator/pull/68)
