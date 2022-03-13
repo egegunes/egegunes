@@ -16,7 +16,6 @@
 
 * Reviewed [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
 * Commented [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
-* Commented [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
 * Reviewed [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
 * Commented [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
 * Commented [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
@@ -34,3 +33,7 @@
 * Reviewed [[K8SPSMDB-634] Support PBM's PITR compression functionality](https://github.com/percona/percona-server-mongodb-operator/pull/867)
 * Commented [K8SPSMDB-574: Allow configuring duration for cert-manager certs](https://github.com/percona/percona-server-mongodb-operator/pull/900)
 * Reviewed [K8SPSMDB-574: Allow configuring duration for cert-manager certs](https://github.com/percona/percona-server-mongodb-operator/pull/900)
+* Reviewed [CLOUD-686 - Add scaling test](https://github.com/percona/percona-server-mysql-operator/pull/68)
+* Pushed [gofmt](https://github.com/percona/percona-server-mongodb-operator/commit/a00bf6946b66201bab103521e1a0e222bfe9ce1f) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [fix golangci-lint](https://github.com/percona/percona-server-mongodb-operator/commit/a53ab8af2b2b49a8f897caebd4df472215406bdf) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [Fix reviewdog errors (#906)](https://github.com/percona/percona-server-mongodb-operator/commit/47fa2fc7b8e268ed9277790cacdb9c3b61a76f91) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
