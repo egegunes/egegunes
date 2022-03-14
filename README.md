@@ -34,3 +34,7 @@
 * Commented [K8SPSMDB-574: Allow configuring duration for cert-manager certs](https://github.com/percona/percona-server-mongodb-operator/pull/900)
 * Reviewed [K8SPSMDB-574: Allow configuring duration for cert-manager certs](https://github.com/percona/percona-server-mongodb-operator/pull/900)
 * Reviewed [CLOUD-686 - Add scaling test](https://github.com/percona/percona-server-mysql-operator/pull/68)
+* Pushed [gofmt](https://github.com/percona/percona-server-mongodb-operator/commit/a00bf6946b66201bab103521e1a0e222bfe9ce1f) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [fix golangci-lint](https://github.com/percona/percona-server-mongodb-operator/commit/a53ab8af2b2b49a8f897caebd4df472215406bdf) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [Fix reviewdog errors (#906)](https://github.com/percona/percona-server-mongodb-operator/commit/47fa2fc7b8e268ed9277790cacdb9c3b61a76f91) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [K8SPSMDB-629: Update cert-manager and other dependencies (#860)](https://github.com/percona/percona-server-mongodb-operator/commit/7e0bd4ea88bd9cad18933e92da2bc4e924765a54) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
