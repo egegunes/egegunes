@@ -14,10 +14,14 @@
 
 ### Recent events
 
-* Pushed [K8SPSMDB-654: Handle mongo member state unknown (#905)](https://github.com/percona/percona-server-mongodb-operator/commit/6d035a8f9fe19246e4c9cb60033b4202f31f0cbc) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
-* Pushed [K8SPSMDB-654: Handle mongo member state unknown (#905)](https://github.com/percona/percona-server-mongodb-operator/commit/6d035a8f9fe19246e4c9cb60033b4202f31f0cbc) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
-* Reviewed [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
-* Pushed [K8SPSMDB-654: Handle mongo member state unknown (#905)](https://github.com/percona/percona-server-mongodb-operator/commit/6d035a8f9fe19246e4c9cb60033b4202f31f0cbc) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [force conflicts](https://github.com/percona/percona-server-mongodb-operator/commit/d0f424e6101709eab9ee8a6304055b833994aad6) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [Fix RBAC in bundle.yaml (#908)](https://github.com/percona/percona-server-mongodb-operator/commit/f42161ca2e15027de63a29e5550a5cd9719f4862) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pull request opened [K8SPSMDB-657: Refactor init image detection](https://github.com/percona/percona-server-mongodb-operator/pull/910)
+* Pushed [force conflicts](https://github.com/percona/percona-server-mongodb-operator/commit/d0f424e6101709eab9ee8a6304055b833994aad6) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [Fix RBAC in bundle.yaml (#908)](https://github.com/percona/percona-server-mongodb-operator/commit/f42161ca2e15027de63a29e5550a5cd9719f4862) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pull request opened [K8SPSMDB-657: Refactor init image detection](https://github.com/percona/percona-server-mongodb-operator/pull/910)
+* Pushed [fix tests](https://github.com/percona/percona-server-mongodb-operator/commit/83715b7c8d8d3c5dd22c51a41fad1420d13fb5b4) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
+* Pushed [CLOUD-672 add tests for cross site replication (#890)](https://github.com/percona/percona-server-mongodb-operator/commit/b58b5ef6c9d817634ed8ca6e8ace753f2e659b9a) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [K8SPSMDB-654: Handle mongo member state unknown (#905)](https://github.com/percona/percona-server-mongodb-operator/commit/6d035a8f9fe19246e4c9cb60033b4202f31f0cbc) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [K8SPSMDB-654: Handle mongo member state unknown (#905)](https://github.com/percona/percona-server-mongodb-operator/commit/6d035a8f9fe19246e4c9cb60033b4202f31f0cbc) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [CLOUD-672 add tests for cross site replication](https://github.com/percona/percona-server-mongodb-operator/pull/890)
@@ -30,7 +34,4 @@
 * Pushed [Fix RBAC in bundle.yaml (#908)](https://github.com/percona/percona-server-mongodb-operator/commit/f42161ca2e15027de63a29e5550a5cd9719f4862) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [Fix RBAC in bundle.yaml (#908)](https://github.com/percona/percona-server-mongodb-operator/commit/f42161ca2e15027de63a29e5550a5cd9719f4862) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [Fix RBAC in bundle.yaml (#908)](https://github.com/percona/percona-server-mongodb-operator/commit/f42161ca2e15027de63a29e5550a5cd9719f4862) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
-* Pushed [Fix RBAC in bundle.yaml (#908)](https://github.com/percona/percona-server-mongodb-operator/commit/f42161ca2e15027de63a29e5550a5cd9719f4862) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
-* Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Reviewed [K8SPSMDB-596: remove every field in `mongod` section except `securityencryptionKeySecret`](https://github.com/percona/percona-server-mongodb-operator/pull/882)
 * Pushed [Fix RBAC in bundle.yaml (#908)](https://github.com/percona/percona-server-mongodb-operator/commit/f42161ca2e15027de63a29e5550a5cd9719f4862) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
