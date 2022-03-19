@@ -1,5 +1,6 @@
 ### Recent releases
 
+* [mysqlcookbook MySQL Cookbook 4e](https://github.com/svetasmirnova/mysqlcookbook/releases/tag/1.0) - 2022-03-18
 * [gitlabci 0.3.1](https://github.com/egegunes/gitlabci/releases/tag/0.3.1) - 2020-05-12
 * [redmine-cli 1.3.0](https://github.com/egegunes/redmine-cli/releases/tag/1.3.0) - 2020-01-08
 * [gitlabenv 0.2.0](https://github.com/egegunes/gitlabenv/releases/tag/0.2.0) - 2019-08-20
@@ -15,7 +16,6 @@
 ### Recent events
 
 * Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
@@ -37,4 +37,3 @@
 * Pushed [fix upgrade-sharded](https://github.com/percona/percona-server-mongodb-operator/commit/223731ba9a2056dd9bc2b76a134043cfe32bb27c) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [K8SPSMDB-656 fix: missing cluster name in backup `additionalPrinterColumns`](https://github.com/percona/percona-server-mongodb-operator/pull/909)
 * Reviewed [K8SPSMDB-596: remove every field in `mongod` section except `securityencryptionKeySecret`](https://github.com/percona/percona-server-mongodb-operator/pull/882)
-* Pushed [CLOUD-672 add tests for cross site replication (#890)](https://github.com/percona/percona-server-mongodb-operator/commit/b58b5ef6c9d817634ed8ca6e8ace753f2e659b9a) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
