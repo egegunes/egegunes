@@ -36,5 +36,3 @@
 * Pushed [fix cross-site-sharded](https://github.com/percona/percona-server-mongodb-operator/commit/86cfcaa82322d833fc9711846a304565c236c9b0) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [fix upgrade-sharded](https://github.com/percona/percona-server-mongodb-operator/commit/223731ba9a2056dd9bc2b76a134043cfe32bb27c) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [K8SPSMDB-656 fix: missing cluster name in backup `additionalPrinterColumns`](https://github.com/percona/percona-server-mongodb-operator/pull/909)
-* Reviewed [K8SPSMDB-596: remove every field in `mongod` section except `securityencryptionKeySecret`](https://github.com/percona/percona-server-mongodb-operator/pull/882)
-* Pushed [CLOUD-672 add tests for cross site replication (#890)](https://github.com/percona/percona-server-mongodb-operator/commit/b58b5ef6c9d817634ed8ca6e8ace753f2e659b9a) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
