@@ -15,9 +15,10 @@
 
 ### Recent events
 
+* Reviewed [K8SPSMDB-656 fix: missing cluster name in backup `additionalPrinterColumns`](https://github.com/percona/percona-server-mongodb-operator/pull/909)
 * Pushed [K8SPSMDB-640: Fix updating custom labels (#881)](https://github.com/percona/percona-server-mongodb-operator/commit/f172dbcf90cf784b41c16187be8ca30735572353) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pull request opened [K8SPSMDB-665: Fix smart update for mongos](https://github.com/percona/percona-server-mongodb-operator/pull/919)
-* Reviewed [K8SPSMDB-664 - Fix PSMDB cloud pipeline](https://github.com/Percona-Lab/jenkins-pipelines/pull/1448)
+* Reviewed [K8SPSMDB-656 fix: missing cluster name in backup `additionalPrinterColumns`](https://github.com/percona/percona-server-mongodb-operator/pull/909)
 * Pushed [K8SPSMDB-640: Fix updating custom labels (#881)](https://github.com/percona/percona-server-mongodb-operator/commit/f172dbcf90cf784b41c16187be8ca30735572353) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pull request opened [K8SPSMDB-665: Fix smart update for mongos](https://github.com/percona/percona-server-mongodb-operator/pull/919)
 * Reviewed [K8SPSMDB-664 - Fix PSMDB cloud pipeline](https://github.com/Percona-Lab/jenkins-pipelines/pull/1448)
@@ -36,5 +37,3 @@
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Commented [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
 * Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Reviewed [K8SPSMDB-625 feature: Integrate with Multi Cluster Services (MCS)](https://github.com/percona/percona-server-mongodb-operator/pull/873)
-* Pushed [K8SPSMDB-185: Allow PBM to get S3 credentials from EC2 metadata (#903)](https://github.com/percona/percona-server-mongodb-operator/commit/441deb83b2fcdda4c5ee2fdb86121cfc26e5d2b3) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
