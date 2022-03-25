@@ -15,10 +15,10 @@
 
 ### Recent events
 
+* Pushed [K8SPSMDB-656 fix: missing cluster name in backup `additionalPrinterColumns` (#909)](https://github.com/percona/percona-server-mongodb-operator/commit/57b354e78cf5663f357b855e17cebb966308a841) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck (#829)](https://github.com/percona/percona-server-mongodb-operator/commit/f1998d900ee6cfba371b17d3e6bd68979df87646) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck (#829)](https://github.com/percona/percona-server-mongodb-operator/commit/f1998d900ee6cfba371b17d3e6bd68979df87646) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [K8SPSMDB-640: Fix updating custom labels (#881)](https://github.com/percona/percona-server-mongodb-operator/commit/f172dbcf90cf784b41c16187be8ca30735572353) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Approved [K8SPSMDB-656 fix: missing cluster name in backup `additionalPrinterColumns`](https://github.com/percona/percona-server-mongodb-operator/pull/909)
 * Requested changes [K8SPSMDB-668: Adding support for enabling replication over a service mesh](https://github.com/percona/percona-server-mongodb-operator/pull/920)
 * Pull request opened [K8SPG-195: Fix pgbouncer TLS error](https://github.com/percona/percona-postgresql-operator/pull/233)
-* Commented [K8SPSMDB-668: Adding support for enabling replication over a service mesh](https://github.com/percona/percona-server-mongodb-operator/pull/920#issuecomment-1076133755)
