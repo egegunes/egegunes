@@ -19,7 +19,6 @@
 * Pushed [K8SPSMDB-640: Fix updating custom labels (#881)](https://github.com/percona/percona-server-mongodb-operator/commit/f172dbcf90cf784b41c16187be8ca30735572353) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [K8SPSMDB-656 fix: missing cluster name in backup `additionalPrinterColumns`](https://github.com/percona/percona-server-mongodb-operator/pull/909)
 * Commented [K8SPSMDB-668: Adding support for enabling replication over a service mesh](https://github.com/percona/percona-server-mongodb-operator/pull/920)
-* Commented [K8SPSMDB-668: Adding support for enabling replication over a service mesh](https://github.com/percona/percona-server-mongodb-operator/pull/920)
 * Pushed [[K8SPSMDB-540]: Changing resources might lead to cluster getting stuck (#829)](https://github.com/percona/percona-server-mongodb-operator/commit/f1998d900ee6cfba371b17d3e6bd68979df87646) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Pushed [K8SPSMDB-640: Fix updating custom labels (#881)](https://github.com/percona/percona-server-mongodb-operator/commit/f172dbcf90cf784b41c16187be8ca30735572353) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
 * Reviewed [K8SPSMDB-656 fix: missing cluster name in backup `additionalPrinterColumns`](https://github.com/percona/percona-server-mongodb-operator/pull/909)
@@ -37,4 +36,3 @@
 * Pull request opened [K8SPSMDB-665: Fix smart update for mongos](https://github.com/percona/percona-server-mongodb-operator/pull/919)
 * Reviewed [K8SPSMDB-664 - Fix PSMDB cloud pipeline](https://github.com/Percona-Lab/jenkins-pipelines/pull/1448)
 * Pull request opened [K8SPSMDB-663: Check if cert-manager installed](https://github.com/percona/percona-server-mongodb-operator/pull/918)
-* Pushed [K8SPSMDB-663: Check if cert-manager installed](https://github.com/percona/percona-server-mongodb-operator/commit/0f682e4d8f80944724039e4a650d1da69a7c7de4) to [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator)
