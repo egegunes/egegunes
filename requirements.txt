@@ -1,2 +1,0 @@
-feedparser
-python_graphql_client
